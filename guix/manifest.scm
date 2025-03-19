@@ -1,1 +1,2 @@
-(specifications->manifest '("git"))
+(specifications->manifest '("git"
+                            "ungoogled-chromium"))
