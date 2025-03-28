@@ -21,6 +21,11 @@ Cheese bread that apparently exists in other places in Latin America, not only B
 
 Traditional japanese soup, composed of miso paste (japanese seasoning produced by fermenting beans or grains) and other ingredients.
 
+## Caesar Salad
+[^5]
+
+Green salad of romaine lettuce and croutons dressed with lemon juice, olive oil, eggs, Worcestershire sauce, anchovies, garlic, Dijon mustard, Parmesan and black pepper.
+
 ---
 
 # Skills
@@ -54,3 +59,4 @@ This lists some interesting sources I used to learn things related to this curre
 [^2]: Brazilian Cheese Bread (Pao de Queijo) (2024). Allrecipes. Available at: https://www.allrecipes.com/recipe/98554/brazilian-cheese-bread-pao-de-queijo (Accessed: March 28, 2025).
 [^3]: thomson_matt (2011) Answer to “how to write fraction value using html?”. Stack Overflow. Available at: https://stackoverflow.com/a/7526005 (Accessed: March 28, 2025).
 [^4]: Miso Soup (2024). Allrecipes. Available at: https://www.allrecipes.com/recipe/13107/miso-soup (Accessed: March 28, 2025).
+[^5]: Classic Caesar Salad (2024). Allrecipes. Available at: https://www.allrecipes.com/recipe/229063/classic-restaurant-caesar-salad (Accessed: March 28, 2025).
