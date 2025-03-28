@@ -9,6 +9,14 @@ This is the first project of [The Odin Project](https://www.theodinproject.com),
 
 ---
 
+# Recipes
+
+## Pão de Queijo
+
+Cheese bread that apparently exists in other places in Latin America, not only Brazil[^2]. Gets kinda boring if you eat too much of it, but if you fill it with cream cheese it's perfect.
+
+---
+
 # Skills
 
 By the end of this project, I'll have demonstrated that I can use:
@@ -37,3 +45,4 @@ The other files present here demonstrate that I can also use:
 This lists some interesting sources I used to learn things related to this current project.
 
 [^1]: Answer to “markdown tag for document title” (2018). Stack Overflow. Available at: https://stackoverflow.com/a/52237238 (Accessed: March 28, 2025).
+[^2]: Brazilian Cheese Bread (Pao de Queijo) (2024). Allrecipes. Available at: https://www.allrecipes.com/recipe/98554/brazilian-cheese-bread-pao-de-queijo (Accessed: March 28, 2025).
