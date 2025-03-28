@@ -12,8 +12,14 @@ This is the first project of [The Odin Project](https://www.theodinproject.com),
 # Recipes
 
 ## Pão de Queijo
+[^2]
 
-Cheese bread that apparently exists in other places in Latin America, not only Brazil[^2]. Gets kinda boring if you eat too much of it, but if you fill it with cream cheese it's perfect.
+Cheese bread that apparently exists in other places in Latin America, not only Brazil. Gets kinda boring if you eat too much of it, but if you fill it with cream cheese it's perfect.
+
+## Miso Soup
+[^4]
+
+Traditional japanese soup, composed of miso paste (japanese seasoning produced by fermenting beans or grains) and other ingredients.
 
 ---
 
@@ -47,3 +53,4 @@ This lists some interesting sources I used to learn things related to this curre
 [^1]: Answer to “markdown tag for document title” (2018). Stack Overflow. Available at: https://stackoverflow.com/a/52237238 (Accessed: March 28, 2025).
 [^2]: Brazilian Cheese Bread (Pao de Queijo) (2024). Allrecipes. Available at: https://www.allrecipes.com/recipe/98554/brazilian-cheese-bread-pao-de-queijo (Accessed: March 28, 2025).
 [^3]: thomson_matt (2011) Answer to “how to write fraction value using html?”. Stack Overflow. Available at: https://stackoverflow.com/a/7526005 (Accessed: March 28, 2025).
+[^4]: Miso Soup (2024). Allrecipes. Available at: https://www.allrecipes.com/recipe/13107/miso-soup (Accessed: March 28, 2025).
