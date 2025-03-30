@@ -9,6 +9,14 @@ This is the first project of [The Odin Project](https://www.theodinproject.com),
 
 ---
 
+# Palette
+
+The color palette for this project is currently based on the "Mocha" variant of the [Catppuccin](https://catppuccin.com/) color paletter, a well-known color palette featuring pastel colours.
+
+Mocha is the darkest variant provided.
+
+---
+
 # Recipes
 
 ## Pão de Queijo
