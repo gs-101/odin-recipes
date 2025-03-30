@@ -44,7 +44,7 @@ By the end of this project, I'll have demonstrated that I can use:
 2. [GitHub](https://github.com).
 3. [Markdown](https://daringfireball.net/projects/markdown)[^1].
 4. [HTML](https://html.spec.whatwg.org)[^3].
-5. [CSS](https://www.w3.org/TR/css/#css).
+5. [CSS](https://www.w3.org/TR/css/#css)[^6][^7][^8][^9][^10].
 
 [VS Code](https://code.visualstudio.com)/[VSCodium](https://vscodium.com) is not included here because I prefer [Emacs](https://www.gnu.org/s/emacs).
 
@@ -69,3 +69,8 @@ This lists some interesting sources I used to learn things related to this curre
 [^3]: thomson_matt (2011) Answer to “how to write fraction value using html?”. Stack Overflow. Available at: https://stackoverflow.com/a/7526005 (Accessed: March 28, 2025).
 [^4]: Miso Soup (2024). Allrecipes. Available at: https://www.allrecipes.com/recipe/13107/miso-soup (Accessed: March 28, 2025).
 [^5]: Classic Caesar Salad (2024). Allrecipes. Available at: https://www.allrecipes.com/recipe/229063/classic-restaurant-caesar-salad (Accessed: March 28, 2025).
+[^6]: CSS Centering Images (no date). Available at: https://www.w3schools.com/css/css3_image_center.asp (Accessed: March 30, 2025).
+[^7]: How To Change Bullet Color of a List (no date). Available at: https://www.w3schools.com/HOWTO/howto_css_bullet_color.asp (Accessed: March 30, 2025).
+[^8]: Korpela, J.K. (2013) Answer to “cause line to wrap to new line after 100 characters”. Stack Overflow. Available at: https://stackoverflow.com/a/16756641 (Accessed: March 30, 2025).
+[^9]: How To Add a Border To an Image (no date). Available at: https://www.w3schools.com/howto/howto_css_border_image.asp (Accessed: March 30, 2025).
+[^10]: CSS Rounded Corners (no date). Available at: https://www.w3schools.com/css/css3_borders.asp (Accessed: March 30, 2025).
