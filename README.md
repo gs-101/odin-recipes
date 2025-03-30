@@ -36,6 +36,7 @@ By the end of this project, I'll have demonstrated that I can use:
 2. [GitHub](https://github.com).
 3. [Markdown](https://daringfireball.net/projects/markdown)[^1].
 4. [HTML](https://html.spec.whatwg.org)[^3].
+5. [CSS](https://www.w3.org/TR/css/#css).
 
 [VS Code](https://code.visualstudio.com)/[VSCodium](https://vscodium.com) is not included here because I prefer [Emacs](https://www.gnu.org/s/emacs).
 
