@@ -44,8 +44,8 @@ li, p {
 }
 
 li {
-    padding-bottom: 10px;
-    padding-left: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
 }
 
 li::marker {
