@@ -2,8 +2,11 @@
 licensed MIT (Expat). Find the home page of the project here:
 <https://catppuccin.com> */
 
-* {
+*,
+*::before,
+*::after {
     background-color: #1e1e2e;
+    box-sizing: border-box;
     color: #cdd6f4;
 }
 
