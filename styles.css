@@ -28,17 +28,20 @@ h1 {
     text-align: center;
 }
 
-h2 {
+h2, li::marker {
     color: #fab387;
 }
 
 img {
     border: 12px solid #f38ba8;
-    border-radius: 24px;
     display: block;
     height: auto;
     margin: auto;
     width: 50%;
+}
+
+img, .menu {
+    border-radius: 24px;
 }
 
 li, p {
@@ -47,6 +50,22 @@ li, p {
     margin: 10px;
 }
 
-li::marker {
-    color: #fab387;
+.menu {
+    border: 12px solid #fab387;
+    font-size: 36px;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+}
+
+.menu-list {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 36px;
+}
+
+.menu, .menu-list, .menu h2, .menu-list li {
+    background-color: #313244;
 }
