@@ -44,11 +44,7 @@ img {
 li, p {
     /* Breaks words every ~80 characters, GNU style. */
     max-width: 80ch;
-}
-
-li {
-    margin-bottom: 10px;
-    margin-left: 10px;
+    margin: 10px;
 }
 
 li::marker {
